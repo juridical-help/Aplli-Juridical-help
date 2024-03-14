@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../admin"
+		},
+		{
+			"path": "../css"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../page"
+		},
+		{
+			"path": "../php"
+		}
+	]
+}
